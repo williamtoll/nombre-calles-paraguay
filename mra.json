@@ -1,0 +1,26 @@
+{
+  "id": MRA,
+  "nombre": "Mariano Roque Alonso",
+  "ubicacion": [{
+    "latitud":-250000,
+    "longitud": -25000
+  }],
+  "motivo_nombre":"",
+  "referencias":[
+    {
+      "id":"",
+      "link":""
+    },
+    {
+      "id":"",
+      "link":""
+    }
+    ],
+  "breve_historia":"",
+  "ciudad":{
+    "codCiudad": "17",
+    "nombre":"San Lorenzo"
+  },
+  "dato_adicional":{
+  }
+}
