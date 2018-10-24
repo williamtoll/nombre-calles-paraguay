@@ -1,0 +1,33 @@
+{
+  "ciudad":{
+    "codCiudad": "17",
+    "nombre":"San Lorenzo"
+  },
+"calles":[
+{
+  "id": 1,
+  "nombre": "Mariscal Lopez",
+  "ubicacion": [{
+    "latitud":-250000,
+    "longitud": -25000
+  }],
+  "motivo_nombre":"",
+  "referencias":[
+    {
+      "id":"",
+      "link":""
+    },
+    {
+      "id":"",
+      "link":""
+    }
+    ],
+  "breve_historia":"",
+  "barrio":{
+    "codBarrio": "17",
+    "nombre":"San Lorenzo"
+  },
+  "dato_adicional":{
+  }
+}
+]
